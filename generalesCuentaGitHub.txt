@@ -12,3 +12,7 @@ nombre de repositorio
 
 password
 	EdeliuS_99
+
+direccionde mi cuenta
+
+	https://github.com/repositorioEdel/curso1
